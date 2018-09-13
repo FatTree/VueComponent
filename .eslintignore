@@ -4,3 +4,4 @@
 /*.js
 /test/unit/coverage/
 /src/main.js
+/src/router/index.js
